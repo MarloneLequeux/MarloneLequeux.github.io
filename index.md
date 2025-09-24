@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Hi, I'm Marlone Lequeux"
+title: "Marlone Lequeux"
 ---
 
-> Researcher in <Applied Mathematics>. Currently at <MVA-ENS Paris Saclay>.
+> Researcher in **Applied Mathematics**. Currently doing the **MVA** master at **ENS Paris Saclay**.
 
 - Email: marlone.lequeux@eleves.enpc.fr
 - [GitHub](https://github.com/MarloneLequeux) · [LinkedIn](https://fr.linkedin.com/in/marlone-lequeux-b38791255)
