@@ -1,0 +1,29 @@
+title: Marlone Lequeux
+description: Researcher in <Applied Mathematics>
+url: "https://MarloneLequeux.github.io"
+theme: minima
+
+# Show top navigation
+header_pages:
+  - projects.md
+  - publications.md
+  - about.md
+
+# Useful default plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
+
+# Optional social previews
+author:
+  name: Marlone Lequeux
+  email: marlone.lequeux@eleves.enpc.fr
+social_links:
+  - { platform: github,       user_url: "https://github.com/MarloneLequeux" }
+  - { platform: linkedin,     user_url: "https://fr.linkedin.com/in/marlone-lequeux-b38791255" }
+
+# Build settings
+markdown: kramdown
+permalink: pretty
