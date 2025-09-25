@@ -4,10 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-Each card links to code, paper, and a quickstart.
 
+# Machine Learning Projects
 ### Project A
 Short 2–3 lines on problem + outcome.  
 
 ### Project B
-2–3 lines.  
+
+# Computer Vision Projects
+
+### proj x
+
+# Deep Learning Projects
+
+### proj y
+
